@@ -28,6 +28,8 @@ This project is a Python console-based Weather Application that allows users to 
 
 ## ▶ How to Run
 python WeatherApp.py
+create API from OpenWeatherMap API 
+
 
 ---
 
@@ -47,4 +49,4 @@ python WeatherApp.py
 ---
 
 ## 👨‍💻 Author
-Developed by Your Name
+Developed by Monty
